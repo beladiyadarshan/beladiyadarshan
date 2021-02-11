@@ -1,11 +1,15 @@
-### Hi there 👋
+<h1>Hi there 👋<br>
+I am Darshan Beladiya 💻</h1>
 
-<p align="center">
-	<a href="https://github.com/beladiyadarshan"><img srgitc="https://img.shields.io/github/followers/beladiyadarshan.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/darshan786"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="mailto:beladiyad1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail" alt="LinkedIn"></a>
+<p >
+  <a href="mailto:beladiyad1@gmail.com">Email</a> •
+  <a href="https://github.com/beladiyadarshan/">GitHub</a> •
+  <a href="https://codeforces.com/profile/d_p_beladiya">Codeforces</a> •
+  <a href="https://www.linkedin.com/in/darshan786/">Linkedin</a>
 </p>
 
+
+![Darshan's github stats](https://github-readme-stats.vercel.app/api/?username=beladiyadarshan&show_icons=true&title_color=ffd1dc&icon_color=7997ff&text_color=ffd1dc&bg_color=151115)
 
 
 <!--
