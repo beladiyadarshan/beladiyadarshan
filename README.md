@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 <p align="center">
-	<a href="https://github.com/beladiyadarshan"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://github.com/beladiyadarshan"><img srgitc="https://img.shields.io/github/followers/beladiyadarshan.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/darshan786"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="mailto:beladiyad1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white
+" alt="LinkedIn"></a>
 </p>
 
 
