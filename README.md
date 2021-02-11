@@ -8,9 +8,9 @@ I am Darshan Beladiya 💻</h1>
   <a href="https://www.linkedin.com/in/darshan786/">Linkedin</a>
 </p>
 
-[![Badge](https://cp-logo.vercel.app/codechef/darshan786)]
+![Badge](https://cp-logo.vercel.app/codechef/darshan786)
 (https://www.codechef.com/users/darshan786)
-[![Badge](https://cp-logo.vercel.app/codeforces/d_p_beladiya)]
+![Badge](https://cp-logo.vercel.app/codeforces/d_p_beladiya)
 (https://codeforces.com/profile/d_p_beladiya)
 
 
