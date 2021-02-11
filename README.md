@@ -4,7 +4,7 @@ I am Darshan Beladiya 💻</h1>
 <p >
   <a href="mailto:beladiyad1@gmail.com">Email</a> •
   <a href="https://github.com/beladiyadarshan/">GitHub</a> •
-  <a href="https://codeforces.com/profile/d_p_beladiya" >![Badge](https://cp-logo.vercel.app/codeforces/d_p_beladiya)</a> •
+  <a href="https://codeforces.com/profile/d_p_beladiya" >Codeforces</a> •
   <a href="https://www.linkedin.com/in/darshan786/">Linkedin</a>
 </p>
 
