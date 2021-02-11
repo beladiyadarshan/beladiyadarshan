@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="center">
+	<a href="https://github.com/beladiyadarshan"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/darshan786"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+
+
 <!--
 **beladiyadarshan/beladiyadarshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
