@@ -8,8 +8,8 @@ I am Darshan Beladiya 💻</h1>
   <a href="https://www.linkedin.com/in/darshan786/">Linkedin</a>
 </p>
 
-![Badge](https://cp-logo.vercel.app/codechef/darshan786)
 ![Badge](https://cp-logo.vercel.app/codeforces/d_p_beladiya)
+![Badge](https://cp-logo.vercel.app/codechef/darshan786)
 
 
 ![Darshan's github stats](https://github-readme-stats.vercel.app/api/?username=beladiyadarshan&show_icons=true&title_color=4444ff&icon_color=028323&text_color=000000&bg_color=eeeeef)
