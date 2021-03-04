@@ -2,15 +2,17 @@
 I am Darshan Beladiya 💻</h1>
 
 <p >
-  <a href="mailto:beladiyad1@gmail.com" style="
+  <a href="mailto:beladiyad1@gmail.com" class="d-inline-block text-bold" style="
           background: linear-gradient(92.05deg, #BCA1F7 12.09%, #E577B4 42.58%, #FF7170 84.96%);
           -webkit-background-clip: text;
           background-clip: text;
           -webkit-text-fill-color: transparent;
           -webkit-box-decoration-break: clone;" data-ga-click="Dashboard, click, GitHub Satellite 2021">
           Email
-          ›
+          
         </a>•
+        
+        
 <!--   <a href="mailto:beladiyad1@gmail.com">Email</a> • -->
   <a href="https://github.com/beladiyadarshan/">GitHub</a> •
   <a href="https://codeforces.com/profile/d_p_beladiya" >Codeforces</a> •
