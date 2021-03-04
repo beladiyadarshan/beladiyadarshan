@@ -2,14 +2,17 @@
 I am Darshan Beladiya 💻</h1>
 
 <p >
-<a href="https://githubsatellite.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_campaign=satellite_banner_dashboard_std" class="d-inline-block text-bold" style="
+<span class="d-block mt-3 mt-xl-2">
+        <a href="https://githubsatellite.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_campaign=satellite_banner_dashboard_std" class="d-inline-block text-bold" style="
           background: linear-gradient(92.05deg, #BCA1F7 12.09%, #E577B4 42.58%, #FF7170 84.96%);
           -webkit-background-clip: text;
           background-clip: text;
           -webkit-text-fill-color: transparent;
           -webkit-box-decoration-break: clone;" data-ga-click="Dashboard, click, GitHub Satellite 2021">
-          Email
+          Explore
+          ›
         </a>
+      </span>
         
         
  <a href="mailto:beladiyad1@gmail.com">Email</a> •
