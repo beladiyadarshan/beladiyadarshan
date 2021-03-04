@@ -1,18 +1,7 @@
 <h1>Hi there 👋<br>
 I am Darshan Beladiya 💻</h1>
 
-<p >   
- <span class="d-block mt-3 mt-xl-2">
-        <a href="https://githubsatellite.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_campaign=satellite_banner_dashboard_std" class="d-inline-block text-bold" style="
-          background: linear-gradient(92.05deg, #BCA1F7 12.09%, #E577B4 42.58%, #FF7170 84.96%);
-          -webkit-background-clip: text;
-          background-clip: text;
-          -webkit-text-fill-color: transparent;
-          -webkit-box-decoration-break: clone;" data-ga-click="Dashboard, click, GitHub Satellite 2021">
-          Explore
-          ›
-        </a>
-      </span>
+<p >
  <a href="mailto:beladiyad1@gmail.com">Email</a> •
   <a href="https://github.com/beladiyadarshan/">GitHub</a> •
   <a href="https://codeforces.com/profile/d_p_beladiya" >Codeforces</a> •
