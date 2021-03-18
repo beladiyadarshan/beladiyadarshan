@@ -12,7 +12,7 @@ I am Darshan Beladiya 💻</h1>
 ![Badge](https://cp-logo.vercel.app/codechef/darshan786)
 
 
-![Darshan's github stats](https://github-readme-stats.vercel.app/api/?username=beladiyadarshan&show_icons=true&title_color=4444ff&icon_color=028323&text_color=000000&bg_color=eeeeef)
+![Darshan's github stats](https://github-readme-stats.vercel.app/api/?username=beladiyadarshan&show_icons=true&title_color=4444ff&icon_color=028323&text_color=000000&bg_color=bbbbef)
 
 
 <!--
