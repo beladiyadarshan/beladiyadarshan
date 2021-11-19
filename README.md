@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I+am+Darshan+Beladiya+computer+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I+am+Darshan+Beladiya+💻)](https://git.io/typing-svg)
 
 <p >
  <a href="mailto:beladiyad1@gmail.com">Email</a> •
