@@ -8,6 +8,7 @@
 </p>
 
 ![Badge](https://cp-logo.vercel.app/codeforces/d_p_beladiya)
+![Badge](https://cp-logo.vercel.app/codechef/darshan786)
 
 ![Darshan's github stats](https://github-readme-stats.vercel.app/api/?username=beladiyadarshan&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=fa7a18&bg_color=051505)
 
